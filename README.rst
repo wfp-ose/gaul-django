@@ -1,6 +1,9 @@
 Gaul Django, Version 1.x (lsib-django)
 ====================================================
 
+.. image:: https://travis-ci.org/wfp-ose/gaul-django.png
+    :target: https://travis-ci.org/wfp-ose/gaul-django
+
 Description
 -----------
 
